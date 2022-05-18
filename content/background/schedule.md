@@ -5,32 +5,51 @@ weight = 1
 
 ## DAY 1
 
-### Keynote Speaker: Andratesha Fritzgerald, *12:00 - 1:15PM*
+### 11:00 AM - 12:30 PM | Keynote Speaker: Aster Bekele
 
-**Andratesha Fritzgerald**, author of *Antiracism and Universal Design for Learning: Building Expressways to Success* will present on the ways that UDL and culturally responsive and/or sustaining practices open opportunities for learners, particularly multiply marginalized students, during and post-COVID-19.
+This session includes speaker **Aster Bekele**, who will interrogate the institution’s role in highlighting community voice in terms of STEM and thinking of the scientific method as a way to combat systemic issues that historically disenfranchised populations of people face. The speaker will also address how STEM situates in her identity and the work that she contributed to the community.
 
-### Introduction to the Digital Education Hub, *1:15 - 1:45PM*
+### 12:30 - 1:00 PM | Derrick Slack
 
-Here we will introduce the DEH Team and Faciliators, provide background and context for the Institute, and go through the interactive guide to talk about content and flow.
+This session activity is intended to help prime participants to the concepts and ideas that will be explored during the Summer Institute.  Italso helps form a baseline of the rich ideas that we share and bring to this space.
 
-### The Six DEH Throughlines & Activity 1 - Values, *1:45 - 2:30PM*
+### 1:00 - 1:15 PM | Break
 
-We will review the DEH Throughlines in relation to keynote presentation and then engage in an interactive activity comparing family/community values with school values.
+### 1:15 - 2:00 PM | Expo/Poster Session - Akaash Arora
 
-### Empowering Families & Activity 2 - Action Plan, *2:45 - 4:00PM*
+This will work like a professional show and tell. During this session there will be six to eight presenters talking about a program they are a part of that positively impacts the Indianapolis community. Most presenters will present on a program that is related to STEM. 
 
-We will have the opportunity to reflect and write about one of the Throughlines, "Empowering Families and Communities" and complete and evaluative action plan to inform future directions for the DEH.
+### 2:00 - 3:00 PM | What is Third Space? - Dr. Cristina Graff
+
+This convened session explores the meaning of third space and why institutions should use them in its interaction with populations of people in the community. The goal of the summer institute is to locate STEM identities in community. The presenters will give voice to stories and create platforms for “other.” Community is the third space and institutions are interrogating on how to welcome and listen to members of the community. 
 
 ## DAY 2
 
-### Throughlines: Empowering Families & Coalition Building, *1:00 - 1:30PM*
+### 11:00 - 11:20 AM | Day Two Introductions - Derrick Slack
 
-Reflection
+A review to gather data and denote how their perceptions have changed from one day to the next day.
 
-### Expanding on Empowering Families & Communities, *1:30 - 2:30PM*
+### 11:20 AM - 12:05 PM | How STEM connects with Culture - Dr. Ted Hall
 
-Revisit yesterday's evaluations and add to or expand upon understandings.
+The goal of this activity is to design a story quilt that builds and cultivates your identity as a scientist. This includes learning about scientists who come from diverse backgrounds; then you will learn how to make and using sustainable dyes to color fabric for the quilt.
 
-### Mapping a Way Forward, *2:45 - 4:00PM*
+### 12:05 - 12:50 PM | How STEM connects with Careers - Dr. Jeremy Price
 
-All stakeholders will consider the two Throughlines in relation to the DEH materials and resources with the aim to produce actionable steps forward in their own specific contexts, thinking about home values, school values, and their intersections.
+This session explores the realities and possibilities of STEM careers that are embedded in communities. We will map out where we are now and where we want to go with jobs that use STEM and serve communities. We’ll also identify the “chutes and ladders” of getting there.
+
+### 12:50 - 1:30 PM | Break
+
+### 1:30 - 2:15 PM | How STEM connects with Classroom - Dr. Craig Willey, Dr. Paula Magee, & Alexandria Fox
+
+In this session, participants will reflect on past & current realities of STEM in the classroom. Following this, we will explore the future possibilities of what STEM could look like in the classroom. 
+
+### 2:15 - 3:00 PM | How STEM connects with Liberation - Idalia Wilmoth & Akaash Arora
+
+For centuries, the arts and sciences have been interwoven. Minoritized populations and disenfranchised communities have made critical contributions to the STEAM field that has shaped our world. However, their path to STEAM education and achievement has been historically limited by systemic racism and oppression. Thus, this session is to understand the power of the arts, and how we can work to make a change in our classrooms, schools, and greater communities to recognize and implement STEAM education.
+
+### 3:00 - 4:00 PM | Integrative Session: Reflection/Closing - Dr. Cristina Graff & Dr. Ted Hall
+
+* 3:00pm-3:05pm | Introduction - Ryan & Kelly
+* 3:05pm-3:35pm | Panel with four people - Ryan & Kelly
+* 3:35pm-3:50pm | Collective Reflection - Ryan & Kelly
+* 3:50pm-4:00pm | Thank You & Good-Bye - Jeremy
